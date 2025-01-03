@@ -11,14 +11,15 @@ This project dives into a dataset of 16,598 video games to explore sales trends,
 ### Dataset Size: 
 16,598 entries with 11 columns, including attributes like platform, year, genre, publisher, and sales in different regions.
 ### Key Columns: 
-name: Name of the game
-platform: Gaming platform (e.g., Wii, NES, GB)
+• name: Name of the game
 
-year: Year of release
+• platform: Gaming platform (e.g., Wii, NES, GB)
 
-genre: Game genre (e.g., Sports, Role-Playing)
+• year: Year of release
 
-global_sales: Total sales (in millions)
+• genre: Game genre (e.g., Sports, Role-Playing)
+
+• global_sales: Total sales (in millions)
  
 
  
@@ -40,12 +41,14 @@ Sales trends highlight shifts in platform and genre preferences over the decades
  
  
 ## Tools and Technologies Used
-#### Programming: Python (Pandas, Matplotlib)
-#### Environment: Jupyter Notebook
+#### • Programming: Python (Pandas, Matplotlib)
+#### • Environment: Jupyter Notebook
  
  
 ## What I Learned
-How to clean, analyze, and visualize large datasets using Python.
-The importance of storytelling in data analysis by connecting trends to industry developments.
-Enhanced skills in handling missing data and creating compelling visualizations for EDA.
+• How to clean, analyze, and visualize large datasets using Python.
+
+• The importance of storytelling in data analysis by connecting trends to industry developments.
+
+• Enhanced skills in handling missing data and creating compelling visualizations for EDA.
  

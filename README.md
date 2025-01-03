@@ -32,8 +32,8 @@ Sales trends highlight shifts in platform and genre preferences over the decades
  
  
 ## Tools and Technologies Used
-### Programming: Python (Pandas, Matplotlib)
-### Environment: Jupyter Notebook
+#### Programming: Python (Pandas, Matplotlib)
+#### Environment: Jupyter Notebook
  
  
 ## What I Learned

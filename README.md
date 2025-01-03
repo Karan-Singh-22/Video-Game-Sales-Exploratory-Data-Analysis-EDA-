@@ -8,8 +8,11 @@ This project examines a dataset of video game sales to identify patterns, trends
 ### Key Columns: 
 name: Name of the game
 platform: Gaming platform (e.g., Wii, NES, GB)
+
 year: Year of release
+
 genre: Game genre (e.g., Sports, Role-Playing)
+
 global_sales: Total sales (in millions)
  
 

@@ -1,6 +1,12 @@
 # Video-Game-Sales-Exploratory-Data-Analysis-EDA
 
-This project examines a dataset of video game sales to identify patterns, trends, and relationships within the data. The analysis explores how gaming trends have evolved over time and provides insights into sales performance by genre, region, and platform.
+## About this project
+
+
+## Overview
+
+This project dives into a dataset of 16,598 video games to explore sales trends, uncover insights into regional performance, and understand the factors driving sales across genres and platforms. The aim was to leverage EDA techniques to analyze global and regional gaming markets while drawing connections to shifts in gaming trends over time.
+
 
 ## Data Summary
 ### Dataset Size: 

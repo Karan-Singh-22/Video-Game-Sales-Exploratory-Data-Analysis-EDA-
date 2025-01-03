@@ -35,9 +35,8 @@ Sales trends highlight shifts in platform and genre preferences over the decades
 ### Programming: Python (Pandas, Matplotlib)
 ### Environment: Jupyter Notebook
  
-
  
-# What I Learned
+## What I Learned
 How to clean, analyze, and visualize large datasets using Python.
 The importance of storytelling in data analysis by connecting trends to industry developments.
 Enhanced skills in handling missing data and creating compelling visualizations for EDA.

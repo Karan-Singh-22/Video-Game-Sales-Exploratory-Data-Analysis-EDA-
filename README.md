@@ -1,7 +1,6 @@
 # Video-Game-Sales-Exploratory-Data-Analysis-EDA
 
-## About this project
-
+### About this project
 
 ## Overview
 
